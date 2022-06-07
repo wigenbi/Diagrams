@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T09:37:50.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="VKE_9TXfejlx0G8YiF5s" version="19.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T09:40:40.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="F_caQNemGclPHF6RIaot" version="19.0.1" type="github">
   <diagram id="Eu5KaF82Etytcw_lHAuo" name="第 1 页">
-    <mxGraphModel dx="716" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,8 @@
         <mxCell id="QEToAd3EMXx1rYYdfRXe-10" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="422" y="320" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QEToAd3EMXx1rYYdfRXe-12" value="运行内部高频RC作为系统时钟" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="230" y="275" width="100" height="30" as="geometry" />
+        <mxCell id="QEToAd3EMXx1rYYdfRXe-12" value="关闭PLL,运行内部高频RC作为系统时钟" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="267.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="QEToAd3EMXx1rYYdfRXe-14" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="342" y="260" width="20" height="20" as="geometry" />
