@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T03:36:18.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.0" etag="3EQQVBA3Lu7oYRaqE4Af" type="github"><diagram id="BTlGLUN9HItTYb9frud8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-22T06:03:25.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1QAyAG6O3tHZMHjQafM3" version="20.5.0" type="github">
+  <diagram id="BTlGLUN9HItTYb9frud8" name="第 1 页">
+    <mxGraphModel dx="1052" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-1" target="kQ9tPVyhCQjCGRZN8YC7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(239, 242, 245); font-family: 微软雅黑, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 18px;&quot;&gt;电流电压通道增益&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-2" target="kQ9tPVyhCQjCGRZN8YC7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-2" value="HFConst" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-4" target="kQ9tPVyhCQjCGRZN8YC7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-4" target="kQ9tPVyhCQjCGRZN8YC7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-4" value="&lt;span style=&quot;font-family: 微软雅黑, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;电压电流转换系数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="60" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-6" target="kQ9tPVyhCQjCGRZN8YC7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-6" value="功率法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-7" target="kQ9tPVyhCQjCGRZN8YC7-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-7" value="脉冲法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="140" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-10" target="kQ9tPVyhCQjCGRZN8YC7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-10" value="&lt;span style=&quot;font-family: 微软雅黑, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;功率转换系数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-12" target="kQ9tPVyhCQjCGRZN8YC7-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-12" target="kQ9tPVyhCQjCGRZN8YC7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-12" target="kQ9tPVyhCQjCGRZN8YC7-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-12" value="相位校正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="270" width="67.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-16" value="PQ方式校正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-18" value="移采样点方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-16" target="kQ9tPVyhCQjCGRZN8YC7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-25" target="kQ9tPVyhCQjCGRZN8YC7-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-25" value="功率增益校正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91.25" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-27" value="小信号OFFSET校正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-29" target="kQ9tPVyhCQjCGRZN8YC7-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-29" value="功率增益校正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519.5" y="250" width="87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-31" target="kQ9tPVyhCQjCGRZN8YC7-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-31" target="kQ9tPVyhCQjCGRZN8YC7-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-31" target="kQ9tPVyhCQjCGRZN8YC7-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-31" value="相位校正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="67.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-32" value="PQ方式校正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="638.25" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-33" value="移采样点方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="638.25" y="350" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kQ9tPVyhCQjCGRZN8YC7-38" target="kQ9tPVyhCQjCGRZN8YC7-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-38" value="&lt;span style=&quot;font-family: 微软雅黑, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;功率转换系数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ9tPVyhCQjCGRZN8YC7-39" value="小信号OFFSET校正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503.75" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
